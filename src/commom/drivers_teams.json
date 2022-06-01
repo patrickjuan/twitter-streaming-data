@@ -1,0 +1,102 @@
+{
+    "Lewis Hamilton": {
+        "possible_mentions": ["Lewis Hamilton", "Lewis", "Hamilton"],
+        "team": "Mercedes AMG Petronas F1 Team",
+        "country": "United Kingdom"
+    },
+    "George Russell": {
+        "possible_mentions": ["George Russel", "Russel"],
+        "team": "Mercedes AMG Petronas F1 Team",
+        "country": "United Kingdom"
+    },
+    "Max Verstappen": {
+        "possible_mentions": ["Max Verstappen", "Verstappen"],
+        "team": "Red Bull Racing",
+        "country": "The Netherlands"
+    },
+    "Sergio Perez": {
+        "possible_mentions": ["Sergio Perez", "Perez", "Checo"],
+        "team": "Red Bull Racing",
+        "country": "Mexico"
+    },
+    "Charles Leclerc": {
+        "possible_mentions": ["Charles Leclerc", "Leclerc", "Charles"],
+        "team": "Scuderia Ferrari Formula 1",
+        "country": "Monaco"
+    },
+    "Carlos Sainz": {
+        "possible_mentions": ["Carlos Sainz", "Sainz"],
+        "team": "Scuderia Ferrari Formula 1",
+        "country": "Spain"
+    },
+    "Lando Norris": {
+        "possible_mentions": ["Lando Norris", "Norris", "Lando"],
+        "team": "McLaren Racing",
+        "country": "United Kingdom"
+    },
+    "Daniel Ricciardo": {
+        "possible_mentions": ["Daniel Ricciardo", "Ricciardo"],
+        "team": "McLaren Racing",
+        "country": "Australia"
+    },
+    "Fernando Alonso": {
+        "possible_mentions": ["Fernando Alonso", "Alonso"],
+        "team": "Alpine F1 Team",
+        "country": "Spain"
+    },
+    "Esteban Ocon": {
+        "possible_mentions": ["Esteban Ocon", "Ocon"],
+        "team": "Alpine F1 Team",
+        "country": "France"
+    },
+    "Pierre Gasly": {
+        "possible_mentions": ["Pierre Gasly", "Gasly"],
+        "team": "Scuderia AlphaTauri",
+        "country": "France"
+    },
+    "Yuki Tsunoda": {
+        "possible_mentions": ["Yuki Tsunoda", "Tsunoda"],
+        "team": "Scuderia AlphaTauri",
+        "country": "Japan"
+    },
+    "Sebastian Vettel": {
+        "possible_mentions": ["Sebastian Vettel", "Vettel"],
+        "team": "Aston Martin Aramco Cognizant F1 Team",
+        "country": "Germany"
+    },
+    "Lance Stroll": {
+        "possible_mentions": ["Lance Stroll", "Stroll", "Lance"],
+        "team": "Aston Martin Aramco Cognizant F1 Team",
+        "country": "Canada"
+    },
+    "Valterri Bottas": {
+        "possible_mentions": ["Valterri Bottas", "Bottas", "Valterri"],
+        "team": "Alfa Romeo F1 Team ORLEN",
+        "country": "Finland"
+    },
+    "Guanyu Zhou": {
+        "possible_mentions": ["Guanyu Zhou", "Zhou"],
+        "team": "Alfa Romeo F1 Team ORLEN",
+        "country": "China"
+    },
+    "Nicholas Latifi": {
+        "possible_mentions": ["Nicholas Latifi", "Latifi"],
+        "team": "Williams Racing",
+        "country": "Canada"
+    },
+    "Alex Albon": {
+        "possible_mentions": ["Alex Albon", "Albon"],
+        "team": "Williams Racing",
+        "country": "Thailand"
+    },
+    "Mick Schumacher": {
+        "possible_mentions": ["Mick Schumacher", "Mick"],
+        "team": "Haas F1 Team",
+        "country": "Germany"
+    },
+    "Kevin Magnussen": {
+        "possible_mentions": ["Kevin", "Kevin Magnussen", "Magnussen"],
+        "team": "Haas F1 Team",
+        "country": "Denmark"
+    }
+}

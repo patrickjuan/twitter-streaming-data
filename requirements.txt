@@ -1,0 +1,4 @@
+tweepy
+aws_lambda_powertools
+pytest
+ipython
