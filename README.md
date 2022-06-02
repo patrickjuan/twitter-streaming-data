@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Before run the commands you will need to store your Bearer Token inside `src/commom/config.py` file on get_config() method.
 
 To execute the services, use [IPython](https://ipython.readthedocs.io/en/stable/)
-After install the requirents, on root folder type `ipython` and run the following commands
+After install the requirements, on root folder type `ipython` and run the following commands
 
 ### Stream data
 ```
